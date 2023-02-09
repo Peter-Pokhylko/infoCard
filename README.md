@@ -1,2 +1,3 @@
 # infoCard
-My first deal with JS. Used JS button here
+My first case with JS. Used JS button here.
+
